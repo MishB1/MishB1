@@ -5,13 +5,11 @@
 
 
 
-- 🔭 I’m currently working on **innovative flutter projects**
+- 🔭 I’m a ** Flutter Developer**
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 🤝 I’m looking for help with **Firebase**
-
-- 👨‍💻 All of my projects are available at [https://github.com/MishB1?tab=repositories](https://github.com/MishB1?tab=repositories)
+- 🤝 I’m looking for help with ** advanced Firebase**
 
 - 💬 Ask me about **Flutter, python**
 
