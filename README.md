@@ -5,11 +5,11 @@
 
 
 
-- 🔭 I’m a ** Flutter Developer**
+- 🔭 I’m a **Flutter Developer**
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 🤝 I’m looking for help with ** advanced Firebase**
+- 🤝 I’m looking for help with **advanced Firebase**
 
 - 💬 Ask me about **Flutter, python**
 
