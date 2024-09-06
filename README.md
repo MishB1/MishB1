@@ -7,12 +7,6 @@
 
 - 🔭 I’m a **Flutter Developer**
 
-- 🌱 I’m currently learning **JavaScript**
-
-- 🤝 I’m looking for help with **advanced Firebase**
-
-- 💬 Ask me about **Flutter, python**
-
 - 📫 How to reach me **hamishblay@gmail.com**
 
 - ⚡ Fun fact **I love to code, but I suck at it...lol**
